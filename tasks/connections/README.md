@@ -59,7 +59,8 @@ of `Default`.
 
 As a result application is supposed to use real backend and be deployed to any public host-provider
 to make your project reachable. Also, the source of your project should be pushed to school
-repository to allow any other student check it out.
+repository.
+NB: other students don't have access to others' school's repositories - so be sure to submit for cross-check link to deploy
 
 > [!Warning]
 > In the root README.md file of your project a brief description should be defined what
